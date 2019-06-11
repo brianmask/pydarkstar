@@ -1,5 +1,5 @@
 # ah
-name: Zissou
+name: Ranik
 
 # basic
 verbose: true
@@ -14,10 +14,10 @@ overwrite: false
 backup: true
 
 # sql
-hostname: 127.0.0.1
+hostname: localhost
 database: dspdb
-username: root
-password: ????
+username: dspdb
+password: dspdb
 fail: true
 
 # broker
